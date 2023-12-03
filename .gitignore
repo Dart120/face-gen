@@ -1,0 +1,9 @@
+images/
+celeba_hq/
+wandb/
+config.CHECKPOINT_CRITIC
+config.CHECKPOINT_GEN
+datasets/
+archive/
+PROGAN/wandb/
+config.*
